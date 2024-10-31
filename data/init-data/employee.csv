@@ -1,0 +1,26 @@
+name,gender,email,address,education
+Andi Angela,male,Andi.Angela@gmail.com,"Jl. V-street, RT02/RW02, Gg. c-00_d-00_sd-02_v-00, Kel. c-00_d-00_sd-02, Kec. c-00_d-00, Kota c-00, A, 00010",S3-major I-uni I
+Andi Bardin,female,Andi.Bardin@gmail.com,"Jl. Q-street, RT02/RW02, Gg. c-04_d-01_sd-00_v-00, Kel. c-04_d-01_sd-00, Kec. c-04_d-01, Kota c-04, B, 00108",S3-major E-uni G
+Andi Cherry,female,Andi.Cherry@gmail.com,"Jl. V-street, RT03/RW01, Gg. c-03_d-00_sd-02_v-03, Kel. c-03_d-00_sd-02, Kec. c-03_d-00, Kota c-03, A, 00084",S3-major B-uni U
+Andi Dave,female,Andi.Dave@gmail.com,"Jl. G-street, RT02/RW01, Gg. c-02_d-02_sd-02_v-02, Kel. c-02_d-02_sd-02, Kec. c-02_d-02, Kota c-02, A, 00070",S2-major D-uni I
+Andi Eel,male,Andi.Eel@gmail.com,"Jl. K-street, RT04/RW01, Gg. c-01_d-00_sd-03_v-02, Kel. c-01_d-00_sd-03, Kec. c-01_d-00, Kota c-01, A, 00026",D3-major D-uni O
+Budi Angela,male,Budi.Angela@gmail.com,"Jl. A-street, RT01/RW02, Gg. c-01_d-01_sd-00_v-02, Kel. c-01_d-01_sd-00, Kec. c-01_d-01, Kota c-01, A, 00031",S2-major B-uni E
+Budi Bardin,male,Budi.Bardin@gmail.com,"Jl. B-street, RT05/RW01, Gg. c-02_d-00_sd-04_v-00, Kel. c-02_d-00_sd-04, Kec. c-02_d-00, Kota c-02, A, 00050",S3-major B-uni O
+Budi Cherry,male,Budi.Cherry@gmail.com,"Jl. X-street, RT01/RW01, Gg. c-04_d-01_sd-00_v-01, Kel. c-04_d-01_sd-00, Kec. c-04_d-01, Kota c-04, B, 00109",S2-major B-uni G
+Budi Dave,male,Budi.Dave@gmail.com,"Jl. H-street, RT01/RW03, Gg. c-03_d-01_sd-00_v-00, Kel. c-03_d-01_sd-00, Kec. c-03_d-01, Kota c-03, A, 00090",D3-major C-uni E
+Budi Eel,female,Budi.Eel@gmail.com,"Jl. B-street, RT05/RW01, Gg. c-03_d-01_sd-04_v-04, Kel. c-03_d-01_sd-04, Kec. c-03_d-01, Kota c-03, A, 00101",S2-major E-uni O
+Cantika Angela,female,Cantika.Angela@gmail.com,"Jl. S-street, RT02/RW02, Gg. c-01_d-00_sd-00_v-01, Kel. c-01_d-00_sd-00, Kec. c-01_d-00, Kota c-01, A, 00015",S2-major C-uni O
+Cantika Bardin,female,Cantika.Bardin@gmail.com,"Jl. D-street, RT05/RW04, Gg. c-02_d-00_sd-01_v-01, Kel. c-02_d-00_sd-01, Kec. c-02_d-00, Kota c-02, A, 00045",S3-major H-uni I
+Cantika Cherry,female,Cantika.Cherry@gmail.com,"Jl. U-street, RT03/RW04, Gg. c-02_d-02_sd-01_v-00, Kel. c-02_d-02_sd-01, Kec. c-02_d-02, Kota c-02, A, 00065",D3-major I-uni O
+Cantika Dave,female,Cantika.Dave@gmail.com,"Jl. X-street, RT01/RW03, Gg. c-00_d-00_sd-02_v-02, Kel. c-00_d-00_sd-02, Kec. c-00_d-00, Kota c-00, A, 00012",S1-major E-uni U
+Cantika Eel,male,Cantika.Eel@gmail.com,"Jl. Y-street, RT04/RW03, Gg. c-03_d-00_sd-00_v-01, Kel. c-03_d-00_sd-00, Kec. c-03_d-00, Kota c-03, A, 00074",S1-major J-uni N
+Deni Angela,female,Deni.Angela@gmail.com,"Jl. M-street, RT04/RW01, Gg. c-00_d-00_sd-00_v-00, Kel. c-00_d-00_sd-00, Kec. c-00_d-00, Kota c-00, A, 00001",S2-major D-uni U
+Deni Bardin,male,Deni.Bardin@gmail.com,"Jl. H-street, RT02/RW04, Gg. c-03_d-01_sd-04_v-00, Kel. c-03_d-01_sd-04, Kec. c-03_d-01, Kota c-03, A, 00097",D3-major G-uni U
+Deni Cherry,female,Deni.Cherry@gmail.com,"Jl. W-street, RT05/RW04, Gg. c-00_d-00_sd-02_v-02, Kel. c-00_d-00_sd-02, Kec. c-00_d-00, Kota c-00, A, 00012",D3-major H-uni O
+Deni Dave,female,Deni.Dave@gmail.com,"Jl. W-street, RT02/RW04, Gg. c-04_d-03_sd-02_v-01, Kel. c-04_d-03_sd-02, Kec. c-04_d-03, Kota c-04, B, 00125",D3-major I-uni X
+Deni Eel,male,Deni.Eel@gmail.com,"Jl. P-street, RT03/RW03, Gg. c-04_d-02_sd-01_v-03, Kel. c-04_d-02_sd-01, Kec. c-04_d-02, Kota c-04, B, 00120",S1-major G-uni C
+Evelyn Angela,male,Evelyn.Angela@gmail.com,"Jl. X-street, RT02/RW01, Gg. c-04_d-00_sd-00_v-01, Kel. c-04_d-00_sd-00, Kec. c-04_d-00, Kota c-04, B, 00103",S2-major G-uni T
+Evelyn Bardin,male,Evelyn.Bardin@gmail.com,"Jl. G-street, RT01/RW01, Gg. c-01_d-00_sd-03_v-02, Kel. c-01_d-00_sd-03, Kec. c-01_d-00, Kota c-01, A, 00026",S1-major B-uni O
+Evelyn Cherry,female,Evelyn.Cherry@gmail.com,"Jl. I-street, RT02/RW01, Gg. c-04_d-03_sd-00_v-00, Kel. c-04_d-03_sd-00, Kec. c-04_d-03, Kota c-04, B, 00122",D3-major G-uni Y
+Evelyn Dave,male,Evelyn.Dave@gmail.com,"Jl. I-street, RT04/RW01, Gg. c-02_d-02_sd-01_v-01, Kel. c-02_d-02_sd-01, Kec. c-02_d-02, Kota c-02, A, 00066",S2-major I-uni O
+Evelyn Eel,male,Evelyn.Eel@gmail.com,"Jl. E-street, RT03/RW01, Gg. c-00_d-00_sd-02_v-01, Kel. c-00_d-00_sd-02, Kec. c-00_d-00, Kota c-00, A, 00011",S2-major D-uni I
