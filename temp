@@ -1,1 +1,2 @@
 psql -U willy -d edwins_db -f '/app/migrations/0012_insert_init_address.sql'
+migrations/0005_create_table_address.sql
